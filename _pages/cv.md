@@ -57,7 +57,6 @@ Junior in mechanical engineering hoping to go to graduate school
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
 - Best Report, Marine Energy Collegiate Competition, 2023 
 
 ---
