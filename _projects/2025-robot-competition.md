@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Robot Competition
-description: Class project with Graphs
+description: Robot for a cube collection competition
 technologies: [Autodesk Fusion]
 image: /assets/images/robot.JPG
 ---
