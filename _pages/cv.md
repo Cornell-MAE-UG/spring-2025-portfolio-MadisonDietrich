@@ -5,66 +5,60 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/images/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [mjd429@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +240-620-7282
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Junior in mechanical engineering hoping to go to graduate school
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 4.067/4.0 | Graduation: May, 2026
 
-- **[High School Name]**  
+- **James Madison High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2022
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, ANSYS  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** Lathe, mill
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **MDOcean**:  
+  *MDOcean is a multiobjective design optimization software for wave energy converters*
+  - Wrote Matlab code for optimization
+  - Co-authored a conference paper
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Marine Energy Collegiate Competition**:  
+  *I participated in this competition zbout wave energy converters (WECs) run by the United States Department of Energy*  
+  - Built and tested a WEC prototype
+  - Won best report at the competition
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Student Researcher in the Symbiotic Engineering and Analysis Lab**  
+  [September, 2022] - Present  
+  - Wrote code for wave energy converter (WEC)optimization  
+  - Built and tested a WEC prototype
 
 ---
 
 #### Achievements & Certifications
 - [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Best Report, Marine Energy Collegiate Competition, 2023 
 
 ---
 
