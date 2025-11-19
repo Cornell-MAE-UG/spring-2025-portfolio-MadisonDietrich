@@ -13,14 +13,14 @@ permalink: /cv/
 ---
 
 #### Objective
-Junior in mechanical engineering hoping to go to graduate school
+Senior in mechanical engineering
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 4.067/4.0 | Graduation: May, 2026
+  GPA: 4.114/4.0 | Graduation: May, 2026
 
 - **James Madison High School**  
   *High School Diploma*  
@@ -29,7 +29,7 @@ Junior in mechanical engineering hoping to go to graduate school
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
 - **Programming:** Python, MATLAB  
 - **Tools:** Lathe, mill
 
