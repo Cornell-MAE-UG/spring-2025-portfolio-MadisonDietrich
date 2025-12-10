@@ -12,12 +12,9 @@ Once we had our blades designed and printed, we tested them in a wind tunnel. We
 
 
 
-![Testing]({{ '/assets/images/BladeTesting.png' | relative_url }})
-![PowerCurve]({{ '/assets/images/PowerCurve.png' | relative_url }})
-
 <p align="center">
-  <img src="{{ '/assets/images/BladeTesting.png' | relative_url }}" width="45%">
-  <img src="{{ '/assets/images/PowerCurve.png' | relative_url }}" width="45%">
+  <img src="{{ '/assets/images/BladeTesting.png' | relative_url }}" width="40%">
+  <img src="{{ '/assets/images/PowerCurve.png' | relative_url }}" width="50%">
 </p>
 
 
