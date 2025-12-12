@@ -8,4 +8,4 @@ Between 2018 and 2019, two Boeing 737 Max planes crashed, killing hundreds of pe
 My classmates and I were asked to conduct an ethical analysis of the Boeing 737 Max crashes. We considered five main questions whose answers could help prevent future aeronautic tragedies.
 
 1. To what extent should the FAA have investigates and verified claims made by Boeing during the self-regulation process?
-
+During the certification process of the 737 Max, the FAA delegated some regulatory powers to Boeing. In an attempt to cut costs, Boeing told the FAA that the Maxes were similar enough to the normal 737s that pilots should not need extra training for the new planes. Boeing also did not disclose certain flight simulation failures.
