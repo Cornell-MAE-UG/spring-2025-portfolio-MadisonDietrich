@@ -23,3 +23,12 @@ Ultimately, safety is the most important consideration on any engineering projec
 
 Though engineers pushed back on the 737 Max internally, Boeing higher-ups downplayed or ignored their concerns. There should have been stronger whistleblower protections that would have made engineers more comfortable raising their concerns with the FAA directly.
 
+- Should Boeing have disclosed the simulator failures to pilots or the FAA?
+
+Providing information from simulations could have helped prepare pilots to fly the 737 Max and handle issues with MCAS. If self-regulation is to continue, there needs to be less ambiguity about what companies must disclose.
+
+- Should Boeing have grounded the 737 Max fleet after the first crash.
+
+Yes, Boeing should have grounded the fleet, and if they did not, the FAA should have stepped in. It was disingenuous for Boeing to blame the first crash on the pilot when it knew that test pilots had struggled to work with MCAS during test flights.
+
+In conclusion, the Boeing 737 Max crashes resulted from a variety of factors. It is crucial for engineers to understand what happened to prevent future disasters.
